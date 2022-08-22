@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/41514689/185890150-1345afd2-d689-48e0-9efe-035b070736bc.png)
+
 <!--
 **piyumantha-perera/piyumantha-perera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
