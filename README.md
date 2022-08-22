@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ![image](https://user-images.githubusercontent.com/41514689/185890150-1345afd2-d689-48e0-9efe-035b070736bc.png)
+![image](https://user-images.githubusercontent.com/41514689/185890919-aa0428f6-1cb4-45f1-ba30-d2ae07d04604.png)
+![image](https://user-images.githubusercontent.com/41514689/185890972-5d65b165-6554-4284-9018-1a52922f286c.png)
+![image](https://user-images.githubusercontent.com/41514689/185890996-0d2f6b26-4143-43cb-819e-4e36edff6a34.png)
 
 <!--
 **piyumantha-perera/piyumantha-perera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
