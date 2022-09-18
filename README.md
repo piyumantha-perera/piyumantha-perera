@@ -17,8 +17,8 @@
 ### Connect with me:🌐
 
 
-[<img align="left" alt="Shalitha Jayasekara | LinkedIn" width="22px" color="white" src="https://img.icons8.com/color/48/000000/linkedin.png" style="margin-right: 10px;" />][linkedin]
-[<img align="left" alt="shalitha_deshan_98 | Instagram" width="22px" color="white" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Piyumantha perera | LinkedIn" width="22px" color="white" src="https://img.icons8.com/color/48/000000/linkedin.png" style="margin-right: 10px;" />][linkedin]
+[<img align="left" alt="Piyumantha perera | Instagram" width="22px" color="white" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
 <br>
 
@@ -32,19 +32,20 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyumantha-perera&show_icons=true&theme=radical&line_height=21" alt="Shalitha's github stats"/>
 </p>
 
-_PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+
 
 <br>
 
 ### Languages and Tools:
 
 - Using
-
+<img align="left" alt="java" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="csharp" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"> 
 <img align="left" alt="HTML5" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Angular" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/angular/angular.png" />
-<img align="left" alt="JavaScript" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+
 <br>
 <br>
 
@@ -64,7 +65,8 @@ _PS: Top languages does not indicate my skill level or something like that, it's
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
-[instagram]: https://www.instagram.com/piyumantha.perera/?hl=en
+
+[instagram]: https://www.instagram.com/piyumantha.perera/
 [linkedin]: https://www.linkedin.com/in/piyumantha-perera/
 
 <!--[youtube]:
