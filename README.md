@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Shalitha Jayasekara | LinkedIn" width="22px" color="white" src="https://img.icons8.com/color/48/000000/linkedin.png" style="margin-right: 10px;" />][linkedin]
 [<img align="left" alt="shalitha_deshan_98 | Instagram" width="22px" color="white" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]-->
 
-<br>
+
 
 <br>
 <br>
