@@ -1,33 +1,11 @@
 ### Hi there, I'm Piyumantha 👋
-
 ![image](https://user-images.githubusercontent.com/41514689/185890150-1345afd2-d689-48e0-9efe-035b070736bc.png)
-
-
-<!--
-**piyumantha-perera/piyumantha-perera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<br>
+![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
 
 <!-- ## I'm a undergraduate at SLIIT ! -->
 
-<!--- 🔭 I’m currently working on a-->
-<!---
-- 🌱 I’m currently learning NextJS & NestJS development
-- 👯 I’m looking to be a full stack developer
-- 🥅 2022 Goals: Work hard to my career
-- ⚡ Fun fact: I love to listing to music and learn more and more anything...!-->
+
 
 <br />
   <p align="center">
@@ -36,21 +14,22 @@ Here are some ideas to get you started:
 
 <br />
 
-<!---### Connect with me:🌐
+### Connect with me:🌐
 
-[<img align="left" alt="piyumantha.github.io" width="20px" color="white" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-world-user-interface-wanicon-lineal-color-wanicon.png" style="margin-right: 10px;" />][website]
-[<img align="left" alt="ShalithaDeshan | Twitter" width="22px" color="white"  src="https://img.icons8.com/color/48/000000/twitter--v1.png" style="margin-right: 10px;" />][twitter]
+
 [<img align="left" alt="Shalitha Jayasekara | LinkedIn" width="22px" color="white" src="https://img.icons8.com/color/48/000000/linkedin.png" style="margin-right: 10px;" />][linkedin]
-[<img align="left" alt="shalitha_deshan_98 | Instagram" width="22px" color="white" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]-->
+[<img align="left" alt="shalitha_deshan_98 | Instagram" width="22px" color="white" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
 
+<br>
 
+<br>
 <br>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyumantha-perera&theme=radical&hide_langs_below=1&layout=compact" />
   <br>
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyumantha-perera&show_icons=true&theme=radical&line_height=21" alt="Piyumantha's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piyumantha-perera&show_icons=true&theme=radical&line_height=21" alt="Shalitha's github stats"/>
 </p>
 
 _PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
@@ -65,7 +44,7 @@ _PS: Top languages does not indicate my skill level or something like that, it's
 <img align="left" alt="CSS3" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Angular" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/angular/angular.png" />
 <img align="left" alt="JavaScript" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <br>
 <br>
 
@@ -84,10 +63,9 @@ _PS: Top languages does not indicate my skill level or something like that, it's
 <img align="left" alt="GitHub" style="margin-right: 10px;" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<!--[website]: https://shalithadeshan.github.io/
-[twitter]: https://twitter.com/ShalithaDeshsn
-[instagram]: https://www.instagram.com/shalitha_deshan_98/?hl=en
-[linkedin]: https://www.linkedin.com/in/shalitha-jayasekara-194215180/-->
+
+[instagram]: https://www.instagram.com/piyumantha.perera/?hl=en
+[linkedin]: https://www.linkedin.com/in/piyumantha-perera/
 
 <!--[youtube]:
 [webdevplaylist]:
